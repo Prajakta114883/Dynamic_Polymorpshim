@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\praja\\source\\intership folder\\Dynamic_Polymorpshsim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5577F859-4D7C-4DCA-B7C6-BFC4B3FF454F}|Dynamic_Polymorpshsim\\Dynamic_Polymorpshsim.csproj|c:\\users\\praja\\source\\intership folder\\dynamic_polymorpshsim\\dynamic_polymorpshsim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577F859-4D7C-4DCA-B7C6-BFC4B3FF454F}|Dynamic_Polymorpshsim\\Dynamic_Polymorpshsim.csproj|solutionrelative:dynamic_polymorpshsim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\intership folder\\Dynamic_Polymorpshsim\\Dynamic_Polymorpshsim\\Program.cs",
+              "RelativeDocumentMoniker": "Dynamic_Polymorpshsim\\Program.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\intership folder\\Dynamic_Polymorpshsim\\Dynamic_Polymorpshsim\\Program.cs",
+              "RelativeToolTip": "Dynamic_Polymorpshsim\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:18:50.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

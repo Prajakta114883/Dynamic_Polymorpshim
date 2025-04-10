@@ -1,0 +1,7 @@
+C:\Users\praja\source\intership folder\Dynamic_Polymorpshsim\Dynamic_Polymorpshsim\bin\Debug\Dynamic_Polymorpshsim.exe.config
+C:\Users\praja\source\intership folder\Dynamic_Polymorpshsim\Dynamic_Polymorpshsim\bin\Debug\Dynamic_Polymorpshsim.exe
+C:\Users\praja\source\intership folder\Dynamic_Polymorpshsim\Dynamic_Polymorpshsim\bin\Debug\Dynamic_Polymorpshsim.pdb
+C:\Users\praja\source\intership folder\Dynamic_Polymorpshsim\Dynamic_Polymorpshsim\obj\Debug\Dynamic_Polymorpshsim.csproj.AssemblyReference.cache
+C:\Users\praja\source\intership folder\Dynamic_Polymorpshsim\Dynamic_Polymorpshsim\obj\Debug\Dynamic_Polymorpshsim.csproj.CoreCompileInputs.cache
+C:\Users\praja\source\intership folder\Dynamic_Polymorpshsim\Dynamic_Polymorpshsim\obj\Debug\Dynamic_Polymorpshsim.exe
+C:\Users\praja\source\intership folder\Dynamic_Polymorpshsim\Dynamic_Polymorpshsim\obj\Debug\Dynamic_Polymorpshsim.pdb
